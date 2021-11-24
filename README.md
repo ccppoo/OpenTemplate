@@ -26,7 +26,7 @@ Reference :
 
     - 📜 `<issue_name>.yaml` - 개별 이슈 YAML 템플릿
 
-  - 📁 `workflow` Github Action 관리하는 파일
+  - 📁 `workflows` Github Action 관리하는 파일
 
     - 📜 `main.yml` - 기본 Github Action
 
@@ -76,6 +76,12 @@ issue 템플릿을 강제할 수 있으며, 다른 한편으로 작성하기 쉬
 Working in progress...
 
 - main.yml
+
+https://docs.github.com/en/actions/quickstart
+
+- labels.yml
+
+https://github.com/marketplace/actions/label-syncer
 
 ---
 
