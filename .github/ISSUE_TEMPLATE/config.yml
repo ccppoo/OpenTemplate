@@ -6,9 +6,6 @@ blank_issues_enabled: false
 # url   : 연결될 링크
 # about : 간단한 설명
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: Google
+    url: https://www.google.com/
+    about: 물어보기 전에 구글링을 하셨나요?

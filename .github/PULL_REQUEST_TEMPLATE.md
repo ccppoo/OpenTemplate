@@ -1,36 +1,37 @@
----
-name: PR의 이름입니다
-about: PR에 대한 간단한 설명입니다.
-labels: improvement
-assignees: ccppoo
----
-
-<!--
-name: PR의 이름입니다
-about: PR에 대한 간단한 설명입니다.
-labels:
-assignees:
--->
-
-## Pull Request
-
-Provide a link to the ticket.
-
 ## Description
 
-Provide a small description of Pull Request.
+PR에 대한 간단한 설명을 작성해주세요
 
-## Checklist:
+**타인의 Issue 혹은 Pull-Request도 첨부해도 상관 없습니다!**
 
-- [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests pass.
+_우리는 Open Source니깐..._
 
-## Reviewers:
+⚠️ Commit에는 한 번에 하나의 내용/기능만 추가해주세요!
 
-- [ ] @Dev 1
-- [ ] @Dev 2
+- 새로운 내용을 추가하는 경우
 
-/label ~Feature
+  - 관련된 issue에 대한 PR인 경우 링크 첨부 해주세요
+
+  - 이전에 유사한 내용 PR이 거부되었던 경우 해당 PR 링크 첨부 해주세요
+
+  - 새로운 폴더, 목록, 항목을 만드는 경우 이유를 작성해주세요
+
+- 기존의 내용에서 수정하는 경우
+
+  - 이전의 내용 혹은 코드로부터 개선된 내용을 첨부 해주세요
+
+- 모든 경우에 해당되는 부분입니다
+
+  - 참고한 내용이 있을 경우 링크를 첨부 해주세요
+
+## Checklist
+
+- [ ] 문법을 지키며 작성했습니다.
+- [ ] 예시 코드가 작동하는지 확인했습니다.
+- [ ] 기 타 등 등.
+
+## Reviewers
+
+리뷰할 사람을 지정해주세요
+
+- [ ] @`Github username`

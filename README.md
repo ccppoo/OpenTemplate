@@ -20,11 +20,9 @@ Template for questions
 
     - 📜 `<issue_name>.md` - 개별 이슈 템플릿
 
-  - 📁 `PULL_REQUEST_TEMPLATE` PR 템플릿
-
-    - 📜 `<pull_request_name>.md` - 개별 PR 템플릿
-
   - 📁 `workflow` Github Action 관리하는 파일
+
+- 📜 `PULL_REQUEST_TEMPLATE.md` - PR 템플릿
 
 - 📜 `README.md` - 현재 읽고 있는 이 파일
 
@@ -34,4 +32,8 @@ Template for questions
 
 ### Issue Template, 이슈 템플릿
 
-#### Issue config
+- **Issue config**
+
+issue를 작성하기 전에 탬플릿을 고르는 화면에 나오는 내용입니다.
+
+- **example.md**
