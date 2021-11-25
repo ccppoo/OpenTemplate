@@ -1,6 +1,6 @@
 # Open Template
 
-내가 쓰려고 만든 Github 템플릿
+Github 템플릿
 
 Reference :
 
@@ -73,15 +73,23 @@ issue 템플릿을 강제할 수 있으며, 다른 한편으로 작성하기 쉬
 
 ### WorkFlow - with Github Action
 
-Working in progress...
+Workflow의 경우 직접 `.yml` 파일을 직접 작성하는 것보다 웹 페이지 상에서 추가하는 것이 간단합니다.
 
-- main.yml
+![Work flow guide](./images/openTemplate_new_workflow.PNG)
 
-https://docs.github.com/en/actions/quickstart
+`.yml` 파일 하나에는 여러 작업이 정의되어 있을 수 있고, 파일 이름은 작업과 상관이 없습니다.
+
+- main.yml, github-actions-demo.yml
+
+[Gthub Action 샘플 코드](https://docs.github.com/en/actions/quickstart)와 `.yml` 파일을 통해 어떻게 메타데이터를 사용할 수 있는지에 대한 예시입니다.
 
 - labels.yml
 
-https://github.com/marketplace/actions/label-syncer
+[label-syncer](https://github.com/marketplace/actions/label-syncer)
+
+`.yml` 파일에 저장한 레이블을 동기화 시켜주는 Github Action 입니다.
+
+[Github MarketPlace](https://github.com/marketplace?category=&query=&type=actions&verification=)를 통해 다양한 자동화 작업을 이용해보세요!
 
 ---
 
@@ -95,4 +103,6 @@ issue와 달리 yaml 형식의 템플릿은 아직 없습니다.
 
 ---
 
-### 기타 등등
+### Contribute
+
+컨트리뷰트는 언제나 열려있습니다
