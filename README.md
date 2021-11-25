@@ -105,6 +105,18 @@ issue와 달리 yaml 형식의 템플릿은 아직 없습니다.
 
 ---
 
+### Update status badge, 뱃지 업데이트하기
+
+Public template을 이용한 레포지토리를 만든 후 Status badge를 본인의 레포지토리에 맞게 업데이트 해야합니다.
+
+Actions -> Click one of Workflows running -> Click `...` at right -> Copy status badge Markdown -> Paste at README.md
+
+![updating status badge 1](./images/update_badge1.PNG)
+
+![updating status badge 2](./images/update_badge2.PNG)
+
+---
+
 ### Contribute
 
 컨트리뷰트는 언제나 열려있습니다
