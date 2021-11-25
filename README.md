@@ -1,3 +1,5 @@
+[![Sync labels](https://github.com/ccppoo/OpenTemplate/actions/workflows/label-sync.yml/badge.svg)](https://github.com/ccppoo/OpenTemplate/actions/workflows/label-sync.yml) [![GitHub Actions Demo](https://github.com/ccppoo/OpenTemplate/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/ccppoo/OpenTemplate/actions/workflows/github-actions-demo.yml)[![CI](https://github.com/ccppoo/OpenTemplate/actions/workflows/main.yml/badge.svg)](https://github.com/ccppoo/OpenTemplate/actions/workflows/main.yml)
+
 # Open Template
 
 Github 템플릿

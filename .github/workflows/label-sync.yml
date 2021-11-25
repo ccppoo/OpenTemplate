@@ -8,6 +8,8 @@ on:
       - master
     paths:
       - .github/labels.yml
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
